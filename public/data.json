@@ -1,0 +1,23 @@
+[
+  {
+    "event_title": "First Session with Alex Stan",
+    "time": "9:00 AM - 09:30 AM GMT+8",
+    "date": "2024-04-04",
+    "session_type": "Video",
+    "is_client": true
+  },
+  {
+    "event_title": "Webinar: How to cope with trauma in professional life",
+    "time": "9:00 AM - 09:30 AM GMT+8",
+    "date": "2024-04-04",
+    "session_type": "Standard",
+    "is_client": false
+  },
+  {
+    "event_title": "First Session with Alex Stan",
+    "time": "9:00 AM - 09:30 AM GMT+8",
+    "date": "2024-04-04",
+    "session_type": "Video",
+    "is_client": true
+  }
+]
