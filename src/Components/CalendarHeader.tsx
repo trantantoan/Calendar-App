@@ -71,7 +71,7 @@ export default function CalendarHeader() {
             onChange={(e) => dispatch(setMonthIndex(e.value.code))}
             options={months}
             optionLabel="name"
-            placeholder={months[monthIndex].name}
+            placeholder={months[((monthIndex % 12) + 12) % 12].name}
             className="w-full px-1 py-1  border-1 border-blue-400 border-round-2xl"
           />
         </div>
